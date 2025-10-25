@@ -1,4 +1,4 @@
-﻿Console.WriteLine("enter no");
+﻿Console.WriteLine("enter amstrong no");
 int num = Convert.ToInt32(Console.ReadLine()),sum = 0, temp = num;
 
         while (temp > 0)
